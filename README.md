@@ -1,6 +1,6 @@
 # Portfolio
 
-A portfolio template built with HTML, CSS, and JavaScript.
+My portfolio site built with HTML, CSS, and JavaScript.
 
 
 ## License
